@@ -5,3 +5,5 @@
 /.vs
 /Black_Memories_API/obj/Release/net8.0
 /.gitignore
+/Black_Memories_API/.vs/Black_Memories_API/DesignTimeBuild/.dtbcache.v2
+*.vsidx

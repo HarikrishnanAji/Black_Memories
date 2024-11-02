@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Black_Memories_API")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ec40a3623e90bfeff132bb2f281416273fae440d")]
 [assembly: System.Reflection.AssemblyProductAttribute("Black_Memories_API")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Black_Memories_API")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
